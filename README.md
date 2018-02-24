@@ -1,5 +1,6 @@
 # PyTodoList
 Python Todo list manager 
 
-1. Add Item 
-2. Remove Item
+1. Add Items
+2. Remove Items
+3. List Items
